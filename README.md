@@ -72,13 +72,6 @@ The ER diagram visually maps:
 
 ---
 
-## 📽 Video Presentation
-
-An explainer video detailing the case study and schema design.
-*(Add video link here)*
-
----
-
 ## 📂 Repository Structure
 
 ```
